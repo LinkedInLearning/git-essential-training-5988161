@@ -1,0 +1,1 @@
+on my commit when adding first_Folder. git didnt recognize the second_Folder because git doesnt track empty folders. By adding .gitkeep git is able to detect the folder. 
