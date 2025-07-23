@@ -1,4 +1,4 @@
-# Git Essential Training
+ll              88u# Git Essential Training
 This is the repository for the LinkedIn Learning course Git Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
