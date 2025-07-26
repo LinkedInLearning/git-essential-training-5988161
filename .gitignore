@@ -1,6 +1,40 @@
-.DS_Store
-node_modules
-.tmp
-npm-debug.log
 
-secondfolder/*.txt
+# Archivos de configuración de VSCode
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.env
+.venv/
+
+# Archivos de compilación
+dist/
+build/
+*.class
+*.o
+*.exe
+*.out
+
+# Archivos temporales de editores
+*.swp
+*.swo
+*~
+
+# Archivos de respaldo
+*.bak
+*.tmp
+
+
