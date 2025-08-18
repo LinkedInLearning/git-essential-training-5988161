@@ -4,4 +4,4 @@ extra line
 
 text
 
-first line
+this is the first line
