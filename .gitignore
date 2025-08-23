@@ -2,3 +2,11 @@
 node_modules
 .tmp
 npm-debug.log
+
+aqui se escriben los archivos que git debe ignorar y no rastrear
+
+log02.log
+
+podemos ignorar un golder completo usando el nombre del folder con "/"" al final
+
+gitignore solo funciona para archivos nuevos
