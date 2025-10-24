@@ -17,7 +17,7 @@
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 22,
-  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.colorTheme": "dbt Light",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
   // "files.exclude": {
