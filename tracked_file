@@ -1,0 +1,5 @@
+if (is_active_player) then
+  #-- this is an active player - set the flag 
+  is_active_yn = 'Y'
+  print("Is an active player")
+end if;
