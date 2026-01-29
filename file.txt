@@ -1,2 +1,3 @@
 this is a new fiel§:wq
 
+this is another file
