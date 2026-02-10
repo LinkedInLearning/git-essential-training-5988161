@@ -1,4 +1,5 @@
 Adding a line.
 
 Add another line.
-git
+
+line to work with commit editor
