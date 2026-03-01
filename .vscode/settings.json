@@ -16,11 +16,11 @@
   "explorer.openEditors.visible": 0,
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
-  "terminal.integrated.fontSize": 22,
+  "terminal.integrated.fontSize": 14,
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
-  // "files.exclude": {
-  //   "**/.git": false
-  // }
+  "files.exclude": {
+    "**/.git": false
+  }
 }
