@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 Hehe
 
 hoohohoo
 
-heheheh need to be revertedd
 
 git wowow
+=======
+Hehe
+>>>>>>> parent of 2a5b44f (adeed revert)
