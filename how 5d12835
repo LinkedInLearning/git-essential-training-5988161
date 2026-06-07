@@ -1,0 +1,73 @@
+[33mcommit 5d12835be13c68f866391c9dce84203e50b70d88[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kwiat001 <kwiatj@gmail.com>
+Date:   Thu Jun 4 19:16:45 2026 +0000
+
+    deleted file 2
+
+[33mcommit 9e20f9e62fbf4d933e44f38869aa21a0adc674ad[m
+Author: Kwiat001 <kwiatj@gmail.com>
+Date:   Mon May 25 21:25:06 2026 +0000
+
+    test_file_2
+
+[33mcommit 5be0ab3661c44a7ed4ab035355719ab73fb00de1[m
+Author: Kwiat001 <kwiatj@gmail.com>
+Date:   Mon May 25 21:05:10 2026 +0200
+
+    Create test_file
+
+[33mcommit 820e45d63f2996824a5371fc67b4886842f8f0ce[m
+Author: Kwiat001 <kwiatj@gmail.com>
+Date:   Sat May 23 12:47:44 2026 +0000
+
+    Test of commit
+
+[33mcommit 4bf5834aec04fb112ebd5ae8e51e8a6795a1640a[m[33m ([m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Author: Steven Moser <mellotronplayer@gmail.com>
+Date:   Mon May 5 09:09:24 2025 -0700
+
+    Update NOTICE
+
+[33mcommit ae601c052b1d19d857e7aa1bf97df3154c07af94[m
+Author: Steven Moser <mellotronplayer@gmail.com>
+Date:   Mon May 5 09:08:55 2025 -0700
+
+    Update README.md
+
+[33mcommit ac3e1d09e642966e3b68dea06d1e951984eff1dd[m
+Author: Barbara 4bes <43912004+Ba4bes@users.noreply.github.com>
+Date:   Thu Apr 3 20:09:08 2025 +0000
+
+    update readme for Git Essential training course
+
+[33mcommit 2f612162d359e25ec4dd6b88b2db97ad62a4a4df[m
+Author: Barbara 4bes <43912004+Ba4bes@users.noreply.github.com>
+Date:   Mon Mar 31 21:48:13 2025 +0000
+
+    clear terminal window after creation
+
+[33mcommit f64512739f9721e04e008f0640c12c1b75442c09[m
+Author: Barbara 4bes <43912004+Ba4bes@users.noreply.github.com>
+Date:   Mon Mar 31 21:41:14 2025 +0000
+
+    Increase font size for terminal to match editor
+
+[33mcommit 333c1e67995fc644a2dc06ab50961951fd05fbea[m
+Author: Barbara 4bes <43912004+Ba4bes@users.noreply.github.com>
+Date:   Sat Feb 22 16:23:25 2025 +0000
+
+    Adds the code to expose the .git folder (commented)
+
+[33mcommit da4508ff5885dca75ce6e464646fc472872e3df0[m
+Author: cmosier-LiL <88352515+cmosier-LiL@users.noreply.github.com>
+Date:   Tue Dec 17 14:44:11 2024 -0800
+
+    Update README.md
+    
+    update course name
+
+[33mcommit 110e885edef2f86d09ea75847e374e2e0697a9ac[m
+Author: cmosier-LiL <88352515+cmosier-LiL@users.noreply.github.com>
+Date:   Tue Dec 17 14:43:46 2024 -0800
+
+    Initial commit
