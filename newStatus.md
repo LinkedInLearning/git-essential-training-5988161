@@ -1,2 +1,2 @@
 Here is an extra line.
-One more line. adding this line to learn merge conflict.
+One more line. this is a better change.
