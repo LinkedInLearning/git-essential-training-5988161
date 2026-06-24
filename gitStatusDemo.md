@@ -1,1 +1,1 @@
-This is an example of using git status
+This is a new line
