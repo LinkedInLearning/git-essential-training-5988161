@@ -3,4 +3,6 @@ node_modules
 .tmp
 npm-debug.log
 
-secondfolder/*.txt
+log02.log
+
+Second_Folder/*.log
