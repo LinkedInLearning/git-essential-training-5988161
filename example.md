@@ -1,5 +1,7 @@
 # Fibonacci
 
+# Generated
+
 Simple Fibonacci sequence generator (Python):
 
 ```python
@@ -32,4 +34,7 @@ print(list(fib_gen(10)))
 ```
 
 Usage: run the file with Python to see output.
+
+```
+
 ```
