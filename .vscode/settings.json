@@ -19,8 +19,9 @@
   "terminal.integrated.fontSize": 22,
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
-  "workbench.statusBar.visible": true,
+  "workbench.statusBar.visible": true
   // "files.exclude": {
-  //   "**/.git": false
+  //   "**/.git": true,
+  //   "**/.github": true
   // }
 }
