@@ -1,0 +1,1 @@
+Goose (the band) starts at 6pm on Wednesday
