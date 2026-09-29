@@ -1,5 +1,3 @@
 newer
 
 bootcamp
-
-ok
