@@ -1,1 +1,1 @@
- yritän saada konfliktin
+ seeking a conflict here
