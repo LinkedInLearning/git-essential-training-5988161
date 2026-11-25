@@ -17,10 +17,10 @@
   "files.autoSave": "afterDelay",
   "screencastMode.onlyKeyboardShortcuts": true,
   "terminal.integrated.fontSize": 22,
-  "workbench.colorTheme": "Gitpod Dark",
+  "workbench.colorTheme": "Abyss",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
-  // "files.exclude": {
-  //   "**/.git": false
-  // }
+  "files.exclude": {
+    "**/.git": false
+  }
 }
