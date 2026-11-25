@@ -2,3 +2,5 @@
 node_modules
 .tmp
 npm-debug.log
+log2
+test2/
